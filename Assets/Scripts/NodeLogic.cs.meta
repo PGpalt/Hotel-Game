@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf9dcc3a59926b541b95d5c2be8599bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameLogic: {instanceID: 0}
+  - GameMaster: {instanceID: 0}
+  - BuildButton: {fileID: 2164692606844957532, guid: ecc6eb186cb7af143aca4630c16fc29b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
